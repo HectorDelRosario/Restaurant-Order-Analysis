@@ -4,7 +4,13 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
+- [Tools](#Tools)
+- [Exploratoy Data Analysis](#Exploratoy-Data-Analysis)
+- [Data Analysis](#Data-Analysis)
+- [Results/ Findings](#Results-Findings)
+- [Recomendations](#Recomendations)
 - [Limitations of the Analysis](#limitations-of-the-analysis)
+  
 ## Project Overview
 
 This project focuses on analyzing a dataset from a fictional restaurant stored in a database called restaurant_db. Using SQL queries, I explored and analyzed key tables (menu_items and order_details) to uncover valuable insights about the menu items, customer orders, and purchasing behavior.
